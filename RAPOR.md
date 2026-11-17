@@ -11,14 +11,10 @@ Algoritma basit bir Bankamatiğin yaptıklarını yapıyo yani bakiyeyi görme p
 
 **Girdiler:**
 
-1=1
-2=2,5000
-3=3,700
-4=4,1
-5=8
-6=4,2
-7=3,10001
-8=9
+1=işlem seçeneği
+2=2 seçenekte yatırılmak istenen para
+3=3. seçenekte çekilmek istenen para
+4=4. seçenekte onay sorusu
 
 **İşlemler:**
 
