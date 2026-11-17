@@ -1,6 +1,6 @@
 # Rapor
 
-**Ad Soyad:**Kaan Enes KAYA
+**Ad Soyad:** Kaan Enes KAYA
 **Numara:** 62
 
 ## 1. Algoritma Açıklaması
